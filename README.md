@@ -63,7 +63,7 @@ Note: you can sort the products in every tab by rating, price and best selling.
 
 * Users can view and modify their personal information.
 
-![image](https://github.com/AliTarek99/Marketplace/assets/120846112/9abe9956-3066-45e2-932f-083c9f288a3f)
+![image](https://github.com/AliTarek99/Marketplace/assets/120846112/8ba02cbb-35ae-4de2-9443-ade687f894f5)
 
 
 Note: the project data is stored in files.
